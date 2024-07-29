@@ -21,7 +21,7 @@ In this Session, I will demonstrate __How to create Azure Devops Work-Items usin
 | __REQUIREMENTS:-__ |
 | --------- |
 
-1. Access to Micorsoft Forms.
+1. Access to Microsoft Forms.
 2. Access to Microsoft Power Automate.
 3. Azure DevOps Organisation and Project.
 
