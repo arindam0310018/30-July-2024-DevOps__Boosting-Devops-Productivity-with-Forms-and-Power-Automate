@@ -1,5 +1,3 @@
-# Boosting Devops Productivity with Forms and Power Automate:-
-
 Greetings to my fellow Technology Advocates and Specialists.
 
 In this Session, I will demonstrate __How to create Azure Devops Work-Items using Microsoft Forms and Power Automate.__
@@ -32,21 +30,24 @@ In this Session, I will demonstrate __How to create Azure Devops Work-Items usin
 
 Below follows the step by step Process:-
 
-| __1. Create Microsoft Forms and Publish__ |
+| __1. Create Microsoft Forms and Publish__. |
 | --------- |
-| a. Login to Microsoft Forms and Click on "New Form". |
+| a. Login to Microsoft Forms and Click on __"New Form"__. |
 | ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wstj66oxhijjuiuwd6i5.jpg) |
-| b. Create the Required Microsoft Form. |
+| b. Create the __Required Microsoft Form__. |
 | ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jzyofzcmo9tfnidw7zul.jpg) |
+| c. Once Microsoft Form is created, Click on __"Preview"__. |
 | ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nuhcr140xd45fmcibxbz.jpg) |
-| c. Click on "Preview". |
 | ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ex693mwdkg1s5uyadhdt.jpg) |
-| d. Click on "Present". |
+| d. Then click on __"Present"__. |
+| ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nuhcr140xd45fmcibxbz.jpg) |
 | ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7x1yzmlhg3cypsnop6z1.jpg) |
+| ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cc5mgs1ehstn4wkphslk.jpg) |
+| From above, copy the link under the QR Code and open in another browser tab. |
+| ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ottav8pe7zc84s3r6khe.png) |
 
 
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cc5mgs1ehstn4wkphslk.jpg)
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s0fdjwww6x5ndtsq9qkr.jpg)
 
