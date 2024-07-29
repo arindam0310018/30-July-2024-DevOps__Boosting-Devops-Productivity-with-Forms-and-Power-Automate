@@ -23,10 +23,6 @@ In this Session, I will demonstrate __How to create Azure Devops Work-Items usin
 2. Access to Microsoft Power Automate.
 3. Azure DevOps Organisation and Project.
 
-| __CODE REPOSITORY:-__ |
-| --------- |
-
-{% github arindam0310018/30-July-2024-DevOps__Boosting-Devops-Productivity-with-Forms-and-Power-Automate %}
 
 Below follows the step by step Process:-
 
